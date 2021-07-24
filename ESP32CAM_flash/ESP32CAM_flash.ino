@@ -7,6 +7,7 @@
 //LED Flash del ESP32CAM. Este programa parte del
 //hecho de que cuentas con la base programadora.
 //prueba 23jul a las 00.24
+// PULL CON PLUG IN 01.28
 
 //Definición de pines
 #define LAMP 5 //Se selecciona 
