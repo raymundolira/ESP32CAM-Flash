@@ -6,7 +6,7 @@
 //Este es el programa básico para controlar el
 //LED Flash del ESP32CAM. Este programa parte del
 //hecho de que cuentas con la base programadora.
-//prueba 23jul.
+//prueba 23jul a las 00.24
 
 //Definición de pines
 #define LAMP 5 //Se selecciona 
